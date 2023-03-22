@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bernard Itoro</h1>
 <h3 align="center">A backend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **a staff management system**
+- 🔭 I’m currently working on **a review management system**
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
-- 💬 Ask me about **Django, APIs, web development**
+- 💬 Ask me about **Django, APIs, Web Development, Backend Engineering, Problem Solving...and maybe Machine Learning**
 
 - 📫 How to reach me **bernarditoro@gmail.com**
 
