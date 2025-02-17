@@ -11,5 +11,5 @@
 
 Feel free to reach out or collaborate with me on exciting projects!
 
-- X: https://x.com/bernarditoro_
-- LinkedIn: https://linkedin.com/in/bernarditoro
+- X: https://x.com/bernarditoro_/
+- LinkedIn: https://linkedin.com/in/bernarditoro/
