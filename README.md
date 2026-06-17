@@ -1,15 +1,15 @@
 # About Me
 
-- Software Engineer and Blockchain Developer.
+- Backend Engineer and a lot more 😁 
   
-- 4+ years of experience building software products, and more recently developing and deploying smart contracts on the blockchain. 
+- 4+ years of experience building software products, doing stuff with ml models, and more recently dabbling into matters of the blockchain.
+
+- Big fan of aesthetics!
   
-- Work with Python, Solidity, Javascript. Experience with Django, NextJS. .
+- Work with Python, Javascript, Solidity. Experience with Django, VueJS.
 
 
 # Let’s Connect
-
-Feel free to reach out or collaborate with me on exciting projects!
 
 - X: https://x.com/bernarditoro_/
 - LinkedIn: https://linkedin.com/in/bernarditoro/
